@@ -1,0 +1,9 @@
+name: function_system
+description: A function system for mmate
+version: 0.0.1
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
